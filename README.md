@@ -1,7 +1,7 @@
 Weather
 =======
 
-![alt tag](http://i.imgur.com/hG2QUIF.png)
+![alt tag](http://i.imgur.com/lQiK3oe.png)
 ![alt tag](http://i.imgur.com/B7MWQE5.png)
 ![alt tag](http://i.imgur.com/wUHxx2F.png)
 
