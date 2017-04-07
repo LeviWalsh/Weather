@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 #weather
 =======
-# sp17proj5ios
 
-Repository for Spring 2017 MDB iOS Training Program Mini-Project 5 Submissions
+![alt tag](http://i.imgur.com/hG2QUIF.png)
+![alt tag](http://i.imgur.com/a0ZyUQi.png)
+![alt tag](http://i.imgur.com/wUHxx2F.png)
 
-Finalized mini-projects should be stored in personal portfolios, but this repository will be used for providing feedback on code quality using the GitHub code review features.
-
-When pushing code to this repo, DO NOT push to master. Create a new branch and open a pull request.
->>>>>>> 5eb4d1397229b261750118081d5bc0b875dc274a
+Weather is a very simple app that lets you view the current weather at your location, as well as a description of the weather at the time. The app also gives you the nearest time that has a high likelihood of raining (> 50% chance), as well as a visual representation of the moon phase that day. The background is set to be a mood gradient of the current weather.
